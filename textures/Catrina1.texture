@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Catrina1",
+  "identifier": "texture:92534-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5dbdea215b575a59a25e3736a6dae4eb",
+  "assetLocator": "textures/Catrina1.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:92536-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+    "textureExportConfig:92538-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+    "textureExportConfig:92540-d8722e3b-39ef-44b1-afd6-7c3d8c000321"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5dbdea215b575a59a25e3736a6dae4eb",
+      "colorCount": 54546,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.866586652684541,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

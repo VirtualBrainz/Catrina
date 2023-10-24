@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Fire",
+  "identifier": "texture:101810-5405f700-aba1-4b30-80e2-6a71b1a31c03",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4363e0b28dc1c8359fe8393a24598076",
+  "assetLocator": "textures/Fire.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:101812-5405f700-aba1-4b30-80e2-6a71b1a31c03",
+    "textureExportConfig:101814-5405f700-aba1-4b30-80e2-6a71b1a31c03",
+    "textureExportConfig:101816-5405f700-aba1-4b30-80e2-6a71b1a31c03"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4363e0b28dc1c8359fe8393a24598076",
+      "colorCount": 140001,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 15.239457902095392,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

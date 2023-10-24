@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "FireFX",
+  "identifier": "playback_controller_model:105729-5405f700-aba1-4b30-80e2-6a71b1a31c03",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:101704-a8654a2d-8f3d-4d3e-837c-18cc137e3f9d"
+}

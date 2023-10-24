@@ -1,0 +1,88 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "demon",
+  "identifier": "master3_d_object_model:94794-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+  "sourceIdentifier": "asset_collection_model:94798-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.11293799430131912,
+  "globalScaleFactor": 1,
+  "height": 0.2585049867630005,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.1498280018568039,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "faceMesh",
+      "identifier": "mesh:94782-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "faceMesh",
+      "numberOfFaces": 2518,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:94788-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:94784-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:94791-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:94778-d8722e3b-39ef-44b1-afd6-7c3d8c000321",
+              "surfaceGroupIdentifier": "94792-d8722e3b-39ef-44b1-afd6-7c3d8c000321"
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:94786-d8722e3b-39ef-44b1-afd6-7c3d8c000321"
+        }
+      ]
+    }
+  ]
+}

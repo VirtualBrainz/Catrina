@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "ClosedMouth_Cry",
+  "identifier": "playback_controller_model:103144-a8654a2d-8f3d-4d3e-837c-18cc137e3f9d",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:101702-a8654a2d-8f3d-4d3e-837c-18cc137e3f9d"
+}
